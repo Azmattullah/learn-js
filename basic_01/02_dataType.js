@@ -19,8 +19,8 @@ let isLoggedIn = false
 /*
 number => range is 2 power 53
 bigint
-string => "Kolkata is city of Joy"
-boolen => true/false
+string => "Kolkata is a city of Joy"
+boolean => true/false
 null => standalone value
 undefined =>
 symbol => unique
@@ -29,6 +29,6 @@ symbol => unique
 // object
 // console.log(typeof name)
 // console.log(typeof age)
-// console.log(typeof isLoggedIn)
+console.log(typeof isLoggedIn)
 console.log(typeof undefined)
 console.log(typeof null)
